@@ -1,0 +1,1 @@
+console.log("Ammar Shaikh once said,\"The hardest thing to do is watch the one you love, love someone else.\"\ ")
