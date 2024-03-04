@@ -1,3 +1,4 @@
 # Assignment-of-45-Questions
 Generative AI First typescript Assignment
-Some questions are in process..
+Name:MUHAMMAD AMMAR SHAIKH
+ID:00379577
